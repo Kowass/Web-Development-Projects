@@ -1,2 +1,2 @@
 # Web-Development-Projects
-Repositório do curso de desenvolvimento web completo Angela Yu 2024
+Repositório do curso "The Complete Web Development Bootcamp - Angela Yu"
